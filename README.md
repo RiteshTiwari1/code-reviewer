@@ -207,21 +207,6 @@ npm run start your-file.json
 ✅ **Code Examples**: Shows concrete improvements  
 ✅ **Holistic Summary**: Encouraging overall assessment  
 
-## 🎯 Scoring Optimizations
-
-This implementation targets the hackathon's scoring criteria:
-
-- **Functionality (25%)**: Robust error handling and exact format compliance
-- **AI Output Quality (45%)**: Sophisticated prompts for nuanced, empathetic responses  
-- **Code Quality (20%)**: Clean TypeScript, comprehensive documentation
-- **Innovation (10%)**: Holistic summaries and contextual tone adaptation
-
-## 🚀 Advanced Features
-
-- **Contextual Tone**: AI adapts tone based on comment severity
-- **Error Recovery**: Graceful handling of API failures
-- **Progress Feedback**: Real-time processing updates
-- **Flexible Input**: Support for both file and piped input
 
 ## 📝 License
 
