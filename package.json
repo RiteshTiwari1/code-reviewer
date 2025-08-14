@@ -1,0 +1,31 @@
+{
+  "name": "empathetic-code-reviewer",
+  "version": "1.0.0",
+  "description": "AI-powered tool that transforms harsh code review comments into empathetic, educational feedback",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "ts-node src/index.ts",
+    "clean": "rm -rf dist"
+  },
+  "keywords": [
+    "code-review",
+    "ai",
+    "empathy",
+    "feedback",
+    "typescript"
+  ],
+  "author": "Ritesh",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^11.0.0",
+    "dotenv": "^17.2.1",
+    "openai": "^4.52.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "ts-node": "^10.9.0",
+    "typescript": "^5.0.0"
+  }
+}
